@@ -1,0 +1,4 @@
+git clone + link (copiar repositorio)
+git status (verifica status atual do repositorio)
+git add . (adiciona no repositorio local)
+git commit -m "" (Adicina no repisotio git com uma mensagem)
